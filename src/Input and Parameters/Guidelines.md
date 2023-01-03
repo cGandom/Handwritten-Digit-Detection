@@ -1,0 +1,20 @@
+- Test_data.dat:
+    - Line1-Line62 : input test 1
+    - Line63-Line124 : input test 2
+    - …
+- Test_Lable.dat:
+    - Line1: Label of input test 1
+    - Line2: Label of input test 2
+    - …
+- Bh_sm.dat : Line1-Line30 : b1[1]-b1[30]
+- Bo_sm.dat: Line1-Line10: b2[1]-b2[10]
+- Wh_sm.dat:
+    - Line1-Line62 : w1[1][1] – w1[1][62]
+    - Line63-Line124 : w1[2][1] – w1[2][62]
+    - …
+    - Line1799-Line1860 : w1[30][1] – w1[30][62]
+- Wo_sm.dat:
+    - Line1-Line20 : w2[1][1] – w2[1][30]
+    - Line21-Line40 : w2[2][1] – w2[2][30]
+    - …
+    - Line191-Line200 : w1[10][1] – w1[10][30]
